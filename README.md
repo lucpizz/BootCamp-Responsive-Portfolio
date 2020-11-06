@@ -4,11 +4,11 @@ CSS and Bootstrap: Responsive Webpages
 
 This project is using Bootstrap and CSS to demostrate device screen size responsiveness.
 
-- Navigation Bar: links to access each webpage (about, portolio, and contact)
-- Grid system used on each page to various degrees of container, rows, and columns
-- Bootstrap responsive for various device screen sizes
-- Bio and picture information utilized
-- Footer with copyright information
+- Navigation Bar: links to access each webpage (about, portolio, and contact);
+- Grid system used on each page to various degrees of container, rows, and columns;
+- Bootstrap responsive for various device screen sizes;
+- Bio and picture information utilized;
+- Footer with copyright information.
 
 ---
 
