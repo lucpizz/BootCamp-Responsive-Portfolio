@@ -30,9 +30,9 @@ This project is using Bootstrap and CSS to demostrate device screen size respons
 
 ## Webpages
 
-![About Webpage](https://lucpizz.github.io/Responsive-Webpages/index.html)
-![Portfolio Webpage](https://lucpizz.github.io/Responsive-Webpages/portfolio.htm)
-![Contact Webpage](https://lucpizz.github.io/Responsive-Webpages/contact.html)
+[About Webpage](https://lucpizz.github.io/Responsive-Webpages/index.html)
+[Portfolio Webpage](https://lucpizz.github.io/Responsive-Webpages/portfolio.htm)
+[Contact Webpage](https://lucpizz.github.io/Responsive-Webpages/contact.html)
 
 ---
 
