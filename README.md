@@ -1,4 +1,8 @@
 # BootCamp-Responsive-Portfolio
-CSS and Bootstrap Homework: Responsive Portfolio
+CSS and Bootstrap: Responsive Webpages
 
-Website: https://lucpizz.github.io/Responsive-Webpages/index.html
+Webpages: 
+
+    1.  https://lucpizz.github.io/Responsive-Webpages/index.html
+    2.  https://lucpizz.github.io/Responsive-Webpages/portfolio.htm
+    3.  https://lucpizz.github.io/Responsive-Webpages/contact.html
