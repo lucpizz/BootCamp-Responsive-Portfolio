@@ -14,17 +14,11 @@ This project is using Bootstrap and CSS to demostrate device screen size respons
 
 ## Site Structure
 
-<<<<<<< HEAD
-    1. [About Webpage](https://lucpizz.github.io/Responsive-Webpages/index.html)
-    2. [Portfolio Webpage](https://lucpizz.github.io/Responsive-Webpages/portfolio.html)
-    3. [Contact Webpage](https://lucpizz.github.io/Responsive-Webpages/contact.html)
-=======
 1. HTML webpages
     - Index.html - About me introductoin
     - Protfolio - Pictures taken in Middlesex County, Connecticut
     - Contact - Contact webpage to enter information (mock up - not functional)
     - README - Information regarding project
->>>>>>> 6d89b44d3e1a64b17abbb63ba5f60c8c86b8d97a
 
 2. Asset directory
     - CSS file - attributes to the design of the webpages
@@ -37,7 +31,7 @@ This project is using Bootstrap and CSS to demostrate device screen size respons
 ## Webpages
 
 - [About Webpage - https://lucpizz.github.io/Responsive-Webpages/index.html](https://lucpizz.github.io/Responsive-Webpages/index.html)
-- [Portfolio Webpage - https://lucpizz.github.io/Responsive-Webpages/portfolio.htm](https://lucpizz.github.io/Responsive-Webpages/portfolio.htm)
+- [Portfolio Webpage - https://lucpizz.github.io/Responsive-Webpages/portfolio.htm](https://lucpizz.github.io/Responsive-Webpages/portfolio.html)
 - [Contact Webpage - https://lucpizz.github.io/Responsive-Webpages/contact.html](https://lucpizz.github.io/Responsive-Webpages/contact.html)
 
 ---
