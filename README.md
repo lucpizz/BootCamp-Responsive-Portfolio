@@ -9,12 +9,13 @@ This project is using Bootstrap and CSS to demostrate mobile device responsivene
     - 	Bootstrap responsive for various device screen sizes
     -	Bio and picture information utilized
 
+---
 
 Webpages: 
 
-    1. [https://lucpizz.github.io/Responsive-Webpages/index.html] (About Webpage)
-    2. [https://lucpizz.github.io/Responsive-Webpages/portfolio.htm] (Picture Portfolio Webpage)
-    3. [https://lucpizz.github.io/Responsive-Webpages/contact.html] (Contact Webpage)
+    1. [About Webpage] (https://lucpizz.github.io/Responsive-Webpages/index.html)
+    2. [Portfolio Webpage] (https://lucpizz.github.io/Responsive-Webpages/portfolio.htm)
+    3. [Contact Webpage] (https://lucpizz.github.io/Responsive-Webpages/contact.html)
 
 ___
 
