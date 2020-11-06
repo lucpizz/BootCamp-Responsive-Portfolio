@@ -21,16 +21,16 @@ ___
 
 ## Site Structure
 
-...    1. HTML webpages
-...	a. Index.html - About me introductoin 
-...	b. Protfolio - Pictures taken in Middlesex County, Connecticut
-...	c. Contact - Contact webpage to enter information (mock up - not functional)
-...	d. README - Information regarding project
+    1. HTML webpages
+..1	a. Index.html - About me introductoin 
+..1	b. Protfolio - Pictures taken in Middlesex County, Connecticut
+..1	c. Contact - Contact webpage to enter information (mock up - not functional)
+..1	d. README - Information regarding project
 
     2. Asset directory
-	a. CSS file - attributes to the design of the webpages
+..1	a. CSS file - attributes to the design of the webpages
 
     3. Images directory
-	a. Store pictures used in webpages
+..1	a. Store pictures used in webpages
 
 
