@@ -1,6 +1,8 @@
 # BootCamp-Responsive-Portfolio
 CSS and Bootstrap: Responsive Webpages
 
+This project is using Bootstrap to demostrate mobile device responsiveness.
+
 Webpages: 
 
     1.  https://lucpizz.github.io/Responsive-Webpages/index.html
