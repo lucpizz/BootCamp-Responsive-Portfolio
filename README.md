@@ -5,6 +5,6 @@ This project is using Bootstrap to demostrate mobile device responsiveness.
 
 Webpages: 
 
-    1.  https://lucpizz.github.io/Responsive-Webpages/index.html
+    1. [https://lucpizz.github.io/Responsive-Webpages/index.html] main webpage
     2.  https://lucpizz.github.io/Responsive-Webpages/portfolio.htm
     3.  https://lucpizz.github.io/Responsive-Webpages/contact.html
