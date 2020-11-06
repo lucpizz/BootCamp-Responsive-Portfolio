@@ -1,3 +1,6 @@
+
+/*--using ul tag and li tags in the Nav-Bar--*/
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -6,22 +9,8 @@ ul {
     background-color: #333;
   }
   
-  li {
-    float: left;
-  }
-  
-  li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-  }
-  
-  /* Change the link color to #111 (black) on hover */
-  li a:hover {
-    background-color: rgb(145, 144, 144);
-  }
+
+  /*--adjusting the font color on Nav-Bar for Contact, Portfolio, and About--*/
 
   li {
 
@@ -29,55 +18,54 @@ ul {
     font-family: 'Times New Roman', Times, serif;
   }
 
-  .active {
-    background-color: #333;
-    font-size: x-large;
-    font-family: 'Times New Roman', Times, serif;
-  }
+/*--sets the body background to the geometric-leaves.png picture--*/
 
   body {
-    margin: 0;
+    
     font-family: 'Times New Roman', Times, serif;
     background-image: url("../images/geometric-leaves.png");
   }
-  
-  .header {
-    text-align: center;
-    padding: 32px;
-  }
-  
-  
 
-  /* Solid border */
+/*--sets the solid grey background outlining the pictures and texts in the body--*/
+
+  .block{
+    background-color: lightgrey;
+    padding: 30px;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    float: center;
+  }
+ 
+/*--creates the solid line under the heading of each webpage--*/
+
 hr.solid {
+
   border-top: 4px solid #bbb;
 }
 
+/*--sets the font size to x-large in the body--*/
+
 p{
+
   font-size: x-large;
 }
 
-.left {
-  float: left;
-  padding: 0 10px 0 0;
-}
+/*--adjusts the image in the body to the left for the text to wrap around it--*/
 
 #about-image{
+
   float: left;
   width: 400px;
   margin: 10px 20px 10px 10px;
 }
 
-.block{
-  background-color: lightgrey;
-  padding: 30px;
-  margin-top: 5rem;
-  margin-bottom: 5rem;
-  float: center;
-}
+/*--adjusts the spacing for the images on the portfolio.html webpage--*/
 
 .pictures{
   width: 450px;
   height: 350px;
   margin: 30px;
 }
+
+
+
