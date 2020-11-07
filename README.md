@@ -1,4 +1,4 @@
-## Responsive Webpage Demostration
+## Responsive Webpage Demonstration
 
 CSS and Bootstrap: Responsive Webpages
 
